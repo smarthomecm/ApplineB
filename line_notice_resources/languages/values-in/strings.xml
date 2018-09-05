@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="ok">OKE</string>
+<string name="go_link">Periksa sekarang</string>
+<string name="close">Tutup</string>
+<string name="update">Perbarui</string>
+<string name="later">Kemudian</string>
+<string name="do_not_show">Jangan tampilkan lagi</string>
+<string name="terminate">Akhiri</string>
+<string name="board_title_notice">Memberitahukan</string>
+<string name="board_title_help">Bantuan</string>
+<string name="board_title_terms_service">Ketentuan Layanan</string>
+<string name="board_title_legal_notice">pemberitahuan hukum</string>
+<string name="show_contents">Lihat</string>
+</resources>

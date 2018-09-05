@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="ok">確定</string>
+<string name="go_link">立即確認</string>
+<string name="close">關閉</string>
+<string name="update">更新</string>
+<string name="later">稍後設定</string>
+<string name="do_not_show">不再顯示</string>
+<string name="terminate">結束</string>
+<string name="board_title_notice">最新資訊</string>
+<string name="board_title_help">常見問題</string>
+<string name="board_title_terms_service">服務條款</string>
+<string name="board_title_legal_notice">法律通告</string>
+<string name="show_contents">顯示</string>
+</resources>

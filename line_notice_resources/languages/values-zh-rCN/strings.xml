@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="ok">确认</string>
+<string name="go_link">马上确认</string>
+<string name="close">关闭</string>
+<string name="update">升级</string>
+<string name="later">稍后设定</string>
+<string name="do_not_show">不再显示</string>
+<string name="terminate">结束</string>
+<string name="board_title_notice">通知</string>
+<string name="board_title_help">帮助</string>
+<string name="board_title_terms_service">服务条款</string>
+<string name="board_title_legal_notice">法律通告</string>
+<string name="show_contents">显示</string>
+</resources>

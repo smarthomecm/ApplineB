@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="ok">確認</string>
+<string name="go_link">今すぐ確認</string>
+<string name="close">閉じる</string>
+<string name="update">アップデート</string>
+<string name="later">今はしない</string>
+<string name="do_not_show">再表示しない</string>
+<string name="terminate">終了</string>
+<string name="board_title_notice">お知らせ</string>
+<string name="board_title_help">ヘルプ</string>
+<string name="board_title_terms_service">利用規約</string>
+<string name="board_title_legal_notice">規約</string>
+<string name="show_contents">表示</string>
+</resources>

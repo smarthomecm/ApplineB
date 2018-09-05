@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="ok">ตกลง</string>
+<string name="go_link">ตรวจดูเดี๋ยวนี้</string>
+<string name="close">ปิด</string>
+<string name="update">ปรับปรุงข้อมูล</string>
+<string name="later">ภายหลัง</string>
+<string name="do_not_show">อย่าแสดงอีกครั้ง</string>
+<string name="terminate">จบ</string>
+<string name="board_title_notice">คำชี้แจง</string>
+<string name="board_title_help">ช่วยเหลือ</string>
+<string name="board_title_terms_service">เงื่อนไขการให้บริการ</string>
+<string name="board_title_legal_notice">ประกาศทางกฎหมาย</string>
+<string name="show_contents">ดู</string>
+</resources>

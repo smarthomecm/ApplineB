@@ -1,0 +1,759 @@
+{
+  "version": 13,
+  "spec": "1.0",
+  "data": {
+    "touchThreshold": -24.493,
+    "android": {
+      "central": 0.8,
+      "centralbtn": 1.151,
+      "peripheral": 0.75,
+      "usender": 0.5,
+      "manufacturers": {
+        "asus": {
+          "models": {
+            "ast21": {
+              "central": 0.723,
+              "centralbtn": 1.168,
+              "usender": 0.3
+            },
+            "asus_t00p": {
+              "central": 0.862
+            },
+            "asus_z00ad": {
+              "central": 1.058,
+              "peripheral": 0
+            },
+            "nexus7": {
+              "central": 0.796,
+              "peripheral": 0
+            }
+          }
+        },
+        "freetel": {
+          "models": {
+            "ftj161a": {
+              "central": 0.664,
+              "peripheral": 0.785
+            }
+          }
+        },
+        "fujitsu": {
+          "models": {
+            "f-01f": {
+              "centralbtn": 1.254
+            },
+            "f-01h": {
+              "central": 0.625,
+              "centralbtn": 1.351,
+              "peripheral": 0.755
+            },
+            "f-02g": {
+              "central": 0.541,
+              "centralbtn": 1.121,
+              "peripheral": 0
+            },
+            "f-02h": {
+              "central": 1.034,
+              "centralbtn": 1.274,
+              "peripheral": 0.895,
+              "usender": 0.4
+            },
+            "f-04g": {
+              "central": 0.914,
+              "centralbtn": 1.285,
+              "peripheral": 0.674
+            },
+            "f-05f": {
+              "central": 0.895,
+              "centralbtn": 1.214,
+              "peripheral": 0,
+              "usender": 0.4
+            },
+            "f-05g": {
+              "central": 0.632
+            },
+            "m02": {
+              "centralbtn": 1.338
+            }
+          }
+        },
+        "htc": {
+          "models": {
+            "htc801e": {
+              "central": 0.885,
+              "peripheral": 0
+            },
+            "htc_e9pw": {
+              "central": 0.787,
+              "peripheral": 1.114
+            },
+            "htc_m9u": {
+              "central": 0.45,
+              "peripheral": 0.669,
+              "usender": 0.1
+            },
+            "htcbutterfly2": {
+              "central": 0.609,
+              "usender": 0.3
+            },
+            "htcbutterflys": {
+              "central": 0.587,
+              "usender": 0.2
+            },
+            "htcone_m8": {
+              "central": 0.684,
+              "peripheral": 0,
+              "usender": 0.4
+            },
+            "htconemini2": {
+              "central": 0.556
+            },
+            "htl23": {
+              "central": 0.706,
+              "centralbtn": 1.108,
+              "usender": 0.3
+            },
+            "htv31": {
+              "central": 0.599,
+              "centralbtn": 1.14,
+              "peripheral": 0.616
+            },
+            "htvl22": {
+              "central": 0.692,
+              "usender": 0.2
+            },
+            "nexus9": {
+              "central": 0.682,
+              "peripheral": 0.579,
+              "usender": 0.3
+            }
+          }
+        },
+        "huawei": {
+          "models": {
+            "302hw": {
+              "central": 0.612
+            },
+            "403hw": {
+              "central": 0.648,
+              "usender": 0.2
+            },
+            "g620s-l02": {
+              "central": 0.756
+            },
+            "h1512": {
+              "central": 0.743,
+              "peripheral": 0.768,
+              "usender": 0.4
+            },
+            "huaweimt7-j1": {
+              "central": 0.702,
+              "usender": 0.3
+            },
+            "huaweip7-l10": {
+              "central": 0.631,
+              "usender": 0.2
+            },
+            "nexus6p": {
+              "centralbtn": 1.129
+            },
+            "pe-tl10": {
+              "central": 0.653,
+              "peripheral": 0,
+              "usender": 0.6
+            }
+          }
+        },
+        "kyocera": {
+          "models": {
+            "302kc": {
+              "central": 0.623,
+              "centralbtn": 1.073
+            },
+            "404kc": {
+              "central": 0.912,
+              "centralbtn": 1.02
+            },
+            "kcp01k": {
+              "central": 0.592
+            },
+            "kyl23": {
+              "central": 0.604,
+              "usender": 0.4
+            },
+            "kyt31": {
+              "central": 0.619,
+              "peripheral": 0.63
+            },
+            "kyv31": {
+              "central": 0.933,
+              "peripheral": 0,
+              "usender": 0.3
+            },
+            "kyv33": {
+              "central": 0.749,
+              "centralbtn": 1.222,
+              "peripheral": 0,
+              "usender": 0.3
+            },
+            "kyv34": {
+              "central": 0.602,
+              "centralbtn": 1.338,
+              "peripheral": 0.847
+            },
+            "kyv35": {
+              "central": 0.739,
+              "centralbtn": 1.163,
+              "peripheral": 0.727
+            },
+            "kyv36": {
+              "central": 0.577,
+              "centralbtn": 1.272,
+              "peripheral": 0.711,
+              "usender": 0.4
+            },
+            "kyv37": {
+              "central": 0.565,
+              "peripheral": 0.763,
+              "usender": 0.6
+            },
+            "kyy23": {
+              "central": 0.87,
+              "peripheral": 0,
+              "usender": 0.3
+            },
+            "kyy24": {
+              "central": 0.947,
+              "peripheral": 0
+            }
+          }
+        },
+        "lge": {
+          "models": {
+            "dm-01g": {
+              "central": 0.682,
+              "centralbtn": 1.051,
+              "peripheral": 0,
+              "usender": 0.3
+            },
+            "lg-f400s": {
+              "central": 0.983,
+              "peripheral": 0.737
+            },
+            "lgl24": {
+              "central": 1.043,
+              "peripheral": 0,
+              "usender": 0.3
+            },
+            "lgv31": {
+              "central": 0.989,
+              "centralbtn": 1.129,
+              "peripheral": 0,
+              "usender": 0.3
+            },
+            "lgv32": {
+              "central": 0.766,
+              "peripheral": 0.735,
+              "usender": 0.3
+            },
+            "nexus4": {
+              "central": 0.813,
+              "peripheral": 0
+            },
+            "nexus5": {
+              "central": 0.733,
+              "centralbtn": 1.231,
+              "peripheral": 0,
+              "usender": 1
+            },
+            "nexus5x": {
+              "central": 1.101,
+              "centralbtn": 1.342,
+              "peripheral": 0.818
+            }
+          }
+        },
+        "meizu": {
+          "models": {
+            "mx4pro": {
+              "central": 0.803,
+              "usender": 0.8
+            }
+          }
+        },
+        "motorola": {
+          "models": {
+            "nexus6": {
+              "central": 0.655,
+              "centralbtn": 0.992,
+              "peripheral": 0.631
+            }
+          }
+        },
+        "nec": {
+          "models": {
+            "pc-te510s1": {
+              "central": 0.643,
+              "usender": 0.1
+            }
+          }
+        },
+        "oppo": {
+          "models": {
+            "oppoa11w": {
+              "central": 0.989,
+              "peripheral": 0,
+              "usender": 0.7
+            },
+            "r7f": {
+              "central": 0.963,
+              "peripheral": 0,
+              "usender": 0.7
+            }
+          }
+        },
+        "panasonic": {
+          "models": {
+            "elugau2": {
+              "central": 0.734,
+              "peripheral": 0.683,
+              "usender": 0.3
+            }
+          }
+        },
+        "plusonejapanltd": {
+          "models": {
+            "ftj161a": {
+              "centralbtn": 1.239
+            }
+          }
+        },
+        "quanta": {
+          "models": {
+            "jciva-10j": {
+              "central": 0.562,
+              "peripheral": 0.646
+            }
+          }
+        },
+        "samsung": {
+          "models": {
+            "404sc": {
+              "central": 0.709,
+              "peripheral": 0.87
+            },
+            "sc-01f": {
+              "central": 0.897
+            },
+            "sc-01g": {
+              "central": 0.733,
+              "peripheral": 0
+            },
+            "sc-01h": {
+              "central": 0.8,
+              "centralbtn": 1.383,
+              "peripheral": 0.733,
+              "usender": 0.6
+            },
+            "sc-02e": {
+              "centralbtn": 1.172
+            },
+            "sc-02f": {
+              "central": 0.785,
+              "centralbtn": 1.113,
+              "usender": 0.3
+            },
+            "sc-02g": {
+              "central": 0.438
+            },
+            "sc-03e": {
+              "centralbtn": 1.004
+            },
+            "sc-04e": {
+              "central": 0.856,
+              "centralbtn": 1.207
+            },
+            "sc-04f": {
+              "central": 0.713,
+              "centralbtn": 1.062,
+              "peripheral": 0,
+              "usender": 0.4
+            },
+            "sc-04g": {
+              "central": 0.688,
+              "centralbtn": 1.091,
+              "peripheral": 0.818
+            },
+            "sc-05g": {
+              "central": 0.595,
+              "centralbtn": 1.084,
+              "peripheral": 0.763,
+              "usender": 0.3
+            },
+            "scl22": {
+              "central": 0.742,
+              "centralbtn": 1.268
+            },
+            "scl23": {
+              "central": 0.632,
+              "centralbtn": 1.132,
+              "peripheral": 0
+            },
+            "scl24": {
+              "central": 0.603,
+              "centralbtn": 1.083
+            },
+            "scv31": {
+              "central": 0.658,
+              "peripheral": 0.765
+            },
+            "scv32": {
+              "central": 0.855,
+              "centralbtn": 1.141,
+              "peripheral": 1.183,
+              "usender": 0.7
+            },
+            "shv-e330s": {
+              "central": 0.888,
+              "peripheral": 0
+            },
+            "sm-e7000": {
+              "central": 0.572
+            },
+            "sm-g7102": {
+              "central": 0.726
+            },
+            "sm-g850f": {
+              "central": 0.664,
+              "peripheral": 0.723
+            },
+            "sm-g900f": {
+              "central": 0.593
+            },
+            "sm-g900l": {
+              "central": 0.78,
+              "peripheral": 0,
+              "usender": 0.3
+            },
+            "sm-g906k": {
+              "central": 1.055
+            },
+            "sm-g9200": {
+              "central": 0.622,
+              "peripheral": 0.718
+            },
+            "sm-g9350": {
+              "central": 0.55,
+              "peripheral": 0.724,
+              "usender": 0.9
+            },
+            "sm-n900": {
+              "central": 0.691,
+              "peripheral": 0
+            },
+            "sm-n9005": {
+              "central": 0.949,
+              "peripheral": 0
+            },
+            "sm-n900h": {
+              "central": 0.711,
+              "peripheral": 0,
+              "usender": 0.3
+            },
+            "sm-n910s": {
+              "central": 0.597
+            },
+            "sm-n910u": {
+              "central": 0.675,
+              "peripheral": 0,
+              "usender": 0.3
+            },
+            "sm-t700": {
+              "central": 0.557
+            },
+            "sm-t705": {
+              "central": 0.607
+            },
+            "sm-t800": {
+              "central": 0.683
+            }
+          }
+        },
+        "sharp": {
+          "models": {
+            "305sh": {
+              "central": 0.847,
+              "centralbtn": 1.188,
+              "peripheral": 0
+            },
+            "402sh": {
+              "central": 0.907,
+              "peripheral": 0,
+              "usender": 0.3
+            },
+            "403sh": {
+              "central": 0.898,
+              "centralbtn": 1.459,
+              "peripheral": 0
+            },
+            "404sh": {
+              "central": 0.866,
+              "peripheral": 0.663
+            },
+            "502sh": {
+              "central": 0.859,
+              "centralbtn": 1.511,
+              "peripheral": 0.506,
+              "usender": 1
+            },
+            "dm-01h": {
+              "centralbtn": 1.526
+            },
+            "sh-01f": {
+              "central": 0.672,
+              "centralbtn": 1.104,
+              "peripheral": 0.656
+            },
+            "sh-01g": {
+              "central": 0.892,
+              "peripheral": 0
+            },
+            "sh-01h": {
+              "central": 0.859,
+              "centralbtn": 1.282,
+              "peripheral": 0.524,
+              "usender": 0.7
+            },
+            "sh-02g": {
+              "central": 0.819,
+              "usender": 0.4
+            },
+            "sh-02h": {
+              "central": 1.114,
+              "centralbtn": 1.277,
+              "peripheral": 0.7,
+              "usender": 0.7
+            },
+            "sh-03g": {
+              "central": 0.73,
+              "centralbtn": 1.285,
+              "peripheral": 0.651
+            },
+            "sh-04f": {
+              "central": 0.875,
+              "peripheral": 0
+            },
+            "sh-04g": {
+              "central": 0.78,
+              "peripheral": 0
+            },
+            "sh-05g": {
+              "central": 0.833,
+              "peripheral": 0.619
+            },
+            "sh-06g": {
+              "central": 0.704
+            },
+            "shf31": {
+              "central": 0.816,
+              "peripheral": 0
+            },
+            "shf32": {
+              "central": 0.821
+            },
+            "shl25": {
+              "central": 0.587,
+              "centralbtn": 1.125
+            },
+            "shv31": {
+              "central": 0.867,
+              "centralbtn": 1.124,
+              "peripheral": 0
+            },
+            "shv32": {
+              "central": 0.828,
+              "centralbtn": 1.4,
+              "peripheral": 0.53
+            },
+            "shv33": {
+              "central": 0.912,
+              "centralbtn": 1.459,
+              "peripheral": 0.747,
+              "usender": 0.6
+            }
+          }
+        },
+        "sony": {
+          "models": {
+            "401so": {
+              "central": 1.072,
+              "centralbtn": 1.167,
+              "peripheral": 0,
+              "usender": 0.7
+            },
+            "402so": {
+              "central": 0.418,
+              "centralbtn": 1.113,
+              "peripheral": 0.673
+            },
+            "c6903": {
+              "central": 0.648,
+              "peripheral": 0
+            },
+            "d2005": {
+              "central": 0.608
+            },
+            "d5788": {
+              "central": 0.593
+            },
+            "d5833": {
+              "central": 0.891,
+              "peripheral": 0
+            },
+            "e2033": {
+              "central": 0.883,
+              "usender": 0.4
+            },
+            "e2363": {
+              "central": 0.536,
+              "peripheral": 0.731
+            },
+            "e5363": {
+              "central": 0.698,
+              "peripheral": 0.831
+            },
+            "e6553": {
+              "central": 0.455,
+              "peripheral": 0.687
+            },
+            "e6653": {
+              "central": 0.485,
+              "peripheral": 0.575,
+              "usender": 0.3
+            },
+            "sgp412": {
+              "central": 0.575
+            },
+            "sgp611": {
+              "central": 0.588,
+              "usender": 0.7
+            },
+            "sgp621": {
+              "central": 0.612
+            },
+            "so-01f": {
+              "central": 0.514
+            },
+            "so-01g": {
+              "central": 1.138,
+              "centralbtn": 1.104,
+              "peripheral": 0,
+              "usender": 0.7
+            },
+            "so-01h": {
+              "central": 0.508,
+              "centralbtn": 1.068,
+              "peripheral": 0.6,
+              "usender": 0.4
+            },
+            "so-02e": {
+              "central": 0.579,
+              "centralbtn": 1.062,
+              "usender": 0.8
+            },
+            "so-02g": {
+              "central": 0.881,
+              "centralbtn": 1.197,
+              "peripheral": 0
+            },
+            "so-02h": {
+              "centralbtn": 1.082,
+              "peripheral": 0.775,
+              "usender": 0.3
+            },
+            "so-03f": {
+              "central": 0.706,
+              "centralbtn": 1.064,
+              "peripheral": 0,
+              "usender": 0.7
+            },
+            "so-03g": {
+              "central": 0.481,
+              "centralbtn": 1.096,
+              "peripheral": 0.64,
+              "usender": 0.3
+            },
+            "so-03h": {
+              "central": 0.424,
+              "centralbtn": 1.27,
+              "peripheral": 0.613,
+              "usender": 0.4
+            },
+            "so-04f": {
+              "central": 0.652,
+              "peripheral": 0
+            },
+            "so-04g": {
+              "central": 0.865,
+              "peripheral": 0
+            },
+            "so-05f": {
+              "central": 0.587,
+              "centralbtn": 1.153
+            },
+            "sol23": {
+              "central": 0.697,
+              "centralbtn": 1.044
+            },
+            "sol25": {
+              "central": 0.707,
+              "centralbtn": 1.066,
+              "peripheral": 0
+            },
+            "sol26": {
+              "central": 1.028,
+              "centralbtn": 1.174,
+              "peripheral": 0,
+              "usender": 0.7
+            },
+            "sot31": {
+              "central": 0.577,
+              "centralbtn": 1.036,
+              "peripheral": 0.614
+            },
+            "sov31": {
+              "central": 0.577,
+              "peripheral": 0.728
+            },
+            "sov32": {
+              "central": 0.5,
+              "centralbtn": 1.373,
+              "peripheral": 0.575,
+              "usender": 0.6
+            }
+          }
+        },
+        "xiaomi": {
+          "models": {
+            "2014811.0": {
+              "central": 0.6,
+              "usender": 0.4
+            },
+            "m4lte": {
+              "central": 0.775
+            },
+            "mi3w": {
+              "central": 0.71,
+              "peripheral": 0,
+              "usender": 0.2
+            },
+            "minotelte": {
+              "central": 0.58,
+              "usender": 0.2
+            }
+          }
+        }
+      }
+    }
+  }
+}

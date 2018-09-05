@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="ok">OK</string>
+<string name="go_link">Check now</string>
+<string name="close">Close</string>
+<string name="update">Update</string>
+<string name="later">Later</string>
+<string name="do_not_show">Don\'t show again</string>
+<string name="terminate">End</string>
+<string name="board_title_notice">Notices</string>
+<string name="board_title_help">Help</string>
+<string name="board_title_terms_service">Terms of Service</string>
+<string name="board_title_legal_notice">legal notices</string>
+<string name="show_contents">view</string>
+</resources>

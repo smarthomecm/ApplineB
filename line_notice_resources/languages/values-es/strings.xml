@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="ok">Aceptar</string>
+<string name="go_link">Ir ahora</string>
+<string name="close">Cerrar</string>
+<string name="update">Actualizar</string>
+<string name="later">Más tarde</string>
+<string name="do_not_show">No mostrar de nuevo</string>
+<string name="terminate">Fin</string>
+<string name="board_title_notice">Avisos</string>
+<string name="board_title_help">Ayuda</string>
+<string name="board_title_terms_service">Términos de Servicio</string>
+<string name="board_title_legal_notice">avisos legales</string>
+<string name="show_contents">Ver contenido</string>
+</resources>

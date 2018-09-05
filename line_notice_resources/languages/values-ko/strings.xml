@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="ok">확인</string>
+<string name="go_link">바로가기</string>
+<string name="close">닫기</string>
+<string name="update">업데이트</string>
+<string name="later">나중에 하기</string>
+<string name="do_not_show">다시 보지 않기</string>
+<string name="terminate">종료</string>
+<string name="board_title_notice">공지사항</string>
+<string name="board_title_help">도움말</string>
+<string name="board_title_terms_service">이용약관</string>
+<string name="board_title_legal_notice">법적공지</string>
+<string name="show_contents">내용보기</string>
+</resources>
